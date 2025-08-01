@@ -1,1 +1,4 @@
 /ImageDownloader/obj
+/ImageDownloader/bin
+/ImageDownloader/.vs
+/ImageDownloader/wwwroot/images
